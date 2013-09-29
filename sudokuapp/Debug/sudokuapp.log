@@ -1,0 +1,31 @@
+﻿Build started 5/4/2013 5:09:33 PM.
+     1>Project "C:\Users\supah_000\Documents\Visual Studio 2012\Projects\sudokuapp\sudokuapp\sudokuapp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\supah_000\Desktop\LaurentGomila-SFML-5c46daa\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt cell.cpp display.cpp generator.cpp main.cpp solver.cpp sudoku.cpp user_input.cpp
+         user_input.cpp
+         sudoku.cpp
+         solver.cpp
+         main.cpp
+         generator.cpp
+     1>c:\users\supah_000\documents\visual studio 2012\projects\sudokuapp\sudokuapp\generator.cpp(35): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         display.cpp
+         cell.cpp
+     1>c:\users\supah_000\documents\visual studio 2012\projects\sudokuapp\sudokuapp\cell.cpp(122): warning C4800: 'const int' : forcing value to bool 'true' or 'false' (performance warning)
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\sudokuapp.res" sudokuapp.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\supah_000\Documents\Visual Studio 2012\Projects\sudokuapp\Debug\sudokuapp.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\supah_000\Desktop\build\lib\Debug "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\supah_000\Documents\Visual Studio 2012\Projects\sudokuapp\Debug\sudokuapp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\supah_000\Documents\Visual Studio 2012\Projects\sudokuapp\Debug\sudokuapp.lib" /MACHINE:X86 Debug\sudokuapp.res
+         Debug\cell.obj
+         Debug\display.obj
+         Debug\generator.obj
+         Debug\main.obj
+         Debug\solver.obj
+         Debug\sudoku.obj
+         Debug\user_input.obj
+         sudokuapp.vcxproj -> C:\Users\supah_000\Documents\Visual Studio 2012\Projects\sudokuapp\Debug\sudokuapp.exe
+     1>Done Building Project "C:\Users\supah_000\Documents\Visual Studio 2012\Projects\sudokuapp\sudokuapp\sudokuapp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.77

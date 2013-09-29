@@ -1,0 +1,67 @@
+﻿'sudokuapp.exe' (Win32): Loaded 'C:\Users\supah_000\Documents\Visual Studio 2012\Projects\sudokuapp\DebugStatic\sudokuapp.exe'. Symbols loaded.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\opengl32.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmm.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\glu32.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ddraw.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmmbase.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dciman32.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Program Files (x86)\Dxtory Software\Dxtory2.0\DxtoryHK.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\psapi.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shlwapi.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptsp.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rsaenh.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\profapi.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Program Files (x86)\Dxtory Software\Dxtory2.0\DxtoryCore.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\crypt32.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msasn1.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Program Files (x86)\Dxtory Software\Dxtory2.0\DxtoryMM.dll'. Module was built without symbols.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\atiglpxx.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\atioglxx.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\setupapi.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\devobj.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dwmapi.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\atiadlxy.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\propsys.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\userenv.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wtsapi32.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ws2_32.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\IPHLPAPI.DLL'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nsi.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winnsi.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wintrust.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\atigktxx.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\aticfx32.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\atigktxx.dll'
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\atigktxx.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dinput.dll'. Loading disabled by Include/Exclude setting.
+'sudokuapp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\hid.dll'. Loading disabled by Include/Exclude setting.
+The thread 0xf10 has exited with code -1073741510 (0xc000013a).
+The thread 0x2688 has exited with code -1073741510 (0xc000013a).
+The thread 0x2efc has exited with code -1073741510 (0xc000013a).
+The thread 0x2254 has exited with code -1073741510 (0xc000013a).
+The thread 0x2dd8 has exited with code -1073741510 (0xc000013a).
+The thread 0x205c has exited with code -1073741510 (0xc000013a).
+The thread 0x2b18 has exited with code -1073741510 (0xc000013a).
+The program '[11384] sudokuapp.exe' has exited with code -1073741510 (0xc000013a).
