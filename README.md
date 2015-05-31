@@ -11,5 +11,14 @@ The application also includes a sudoku puzzle solver.
 ## Other
 The project was built on Visual Studios, as a result the project files correspond to VS. 
 
-##Depedencies
+## Depedencies
 - SFML (http://www.sfml-dev.org/)
+I added it to the project so it should work out of the box
+
+## Building
+When testing there is a folder called "required" the app requires these files in order to actually run as they contain things like dynamic linked libraries, templates for generating puzzles, and image resources for the application
+
+DLL files and the templates (e.g. easy.txt, medium.txt...) should be in the same folder as the executable (exe) while the image resources need to be a in folder called "media"
+
+## Bugs
+Currently there is an issue where producing a puzzle causes the puzzle to appear in the solver 
