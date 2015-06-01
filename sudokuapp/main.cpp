@@ -4,6 +4,7 @@
 --Members: Andy Ng, Jason Tanabe, Matthew Shinsato, Tyler Isono--
 ----------------------------------------------------------------*/
 
+#pragma comment(linker, "/SUBSYSTEM:windows /ENTRY:mainCRTStartup")
 #include <SFML/Graphics.hpp> //Main Graphics Library
 #include <iostream> //Console Debugging Purposes
 #include "sudoku.h"
