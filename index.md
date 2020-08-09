@@ -10,8 +10,8 @@ The Sudoku App is an application that allows a user to generate sudoku puzzles o
 - Click the Give Up button if you give up and want to see the solution.
 
 ## Screenshots
-![](http://i.imgur.com/nNPPRYd.png)
-![](http://i.imgur.com/VrVBTou.png)
+![](https://i.imgur.com/nNPPRYd.png)
+![](https://i.imgur.com/VrVBTou.png)
 
 ## Other
 The close button is ignored (buttons were configured to be ignored since the resources have a relatively low resolution and we wanted to prevent users from trying to resize the window!) Exit using the Menu button when playing and then clicking Exit. 
