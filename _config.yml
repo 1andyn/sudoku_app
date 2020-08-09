@@ -1,0 +1,8 @@
+title: Sudoku Application
+description: "EE205 Final Project: Jason Tanabe, Andy Ng, Tyler Isono, Matt Shinsato"
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
